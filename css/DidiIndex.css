@@ -1,0 +1,321 @@
+header{
+    width: 7.5rem;
+    height: 0.8rem;
+    line-height: 0.8rem;
+    text-align: center;
+    background: #242424;
+    color: #ffffff;
+    font-size:0.36rem;
+    font-weight:bold;
+}
+.didi-index{
+    width: 7.5rem;
+    height:19.86rem;
+    background: url("../images/background.jpg") no-repeat 0 0;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+    overflow: hidden;
+}
+.png1,.png2,.png3,.png4{
+    width:3.59rem;
+    height:0.6rem;
+    color: #fff;
+    font-size:0.36rem;
+}
+.png1{
+    background: url("../images/png1.png") no-repeat 0 0;
+    margin:1.9rem auto 0.5rem auto;
+    -webkit-background-size: 100% 100%;
+    background-size:100% 100%;
+}
+.png2{
+    background: url("../images/png2.png") no-repeat 0 0;
+    margin:1.1rem auto 0.5rem auto;
+    -webkit-background-size: 100% 100%;
+    background-size:100% 100%;
+}
+.png3{
+    background: url("../images/png3.png") no-repeat 0 0;
+    margin:0.45rem auto 0;
+    -webkit-background-size: 100% 100%;
+    background-size:100% 100%;
+}
+.png4{
+    background: url("../images/png4.png") no-repeat 0 0;
+    margin:0.60rem auto 0;
+    -webkit-background-size: 100% 100%;
+    background-size:100% 100%;
+}
+.didi-index input[type="text"]{
+    width: 6.96rem;
+    height: 0.8rem;
+    font-size: 0.3rem;
+    color: #000;
+    padding:0 0 0 0.2rem;
+    border:0.01rem solid #e6e6e6;
+}
+.didi-input-box{
+    position: relative;
+    width: 7.29rem;
+    height: 1rem;
+    overflow: hidden;
+    text-align: center;
+    margin: 0 auto;
+}
+.didi-input-box a{
+    width: 0.3rem;
+    height: 0.3rem;
+    text-align: center;
+    background: #000;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    position: absolute;
+    top: 0.28rem;
+    right: 0.28rem;
+    background: url("../images/x3030.png") no-repeat 0 0;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.prompt-info{
+    color: #cda869;
+    font-size:0.22rem;
+    margin:0 0 0 0.36rem;
+}
+
+.submiting{
+    display: block;
+    width: 4.2rem;
+    height: 0.86rem;
+    background: url("../images/duihuan.png") no-repeat 0 0;
+    -webkit-background-size: 100% 100%;
+    background-size:100% 100% ;
+    margin: 0.28rem auto 0;
+    -webkit-border-radius:0.1rem;
+    -moz-border-radius:0.1rem;
+    border-radius:0.1rem;
+    color: #ffffff;
+    text-align: center;
+    font-size:0.36rem;
+    line-height: 0.3rem;
+    outline:none;
+    border:0;
+    font-family: "Microsoft Yahei", "STHeiti";
+}
+.submiting2{
+    margin:0;
+    padding:0;
+    width:1.8rem;
+    height:0.66rem;
+    position: absolute;
+    top:0;
+    right:0;
+    -webkit-border-radius:0.05rem;
+    -moz-border-radius:0.05rem;
+    border-radius:0.05rem;
+    line-height:0.7rem;
+    font-size:0.28rem;
+    color: #ffffff;
+}
+
+.list-box{
+    width:7.5rem;
+    height:4.5rem;
+    overflow: hidden;
+}
+.list-box .list-ul{
+    width:7.8rem;
+    height:3.5rem;
+    overflow: hidden;
+}
+.list-box .list-ul li{
+    width:2.18rem;
+    height:3.23rem;
+    background: #ffffff;
+    float: left;
+    margin:0 0 0 0.2rem;
+    border:0.01rem solid #e6e6e6;
+}
+.list-ul li img{
+    width:2.18rem;
+    height:2.19rem;
+    display: block;
+}
+.list-ul li p{
+    width:1.99rem;
+    height:0.5rem;
+    color: #000;
+    line-height:0.5rem;
+    font-size:0.22rem;
+    margin:0 auto;
+    border-bottom:0.01rem solid #eaeaea;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+}
+.list-ul li div{
+    width:1.99rem;
+    height:0.3rem;
+    color: #000;
+    line-height:0.3rem;
+    font-size:0.24rem;
+    margin:0.1rem auto 0;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+
+}
+.icon-bd{
+    width:0.23rem;
+    height:0.17rem;
+    background: url("../images/bd23-17.png") no-repeat 0 0;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.list-ul li div b{
+    display: inline-block;
+    vertical-align: middle;
+    padding:0 0 0 0.08rem;
+    font-family: Arial;
+}
+.more {
+    color: #ff6501;
+    font-size:0.26rem;
+    display: block;
+    text-align: center;
+    margin:0.15rem 0 0 0;
+
+}
+.Instructions{
+    width:7.5rem;
+    margin:0.2rem auto 0;
+    background: #ffffff;
+    padding:0 0 0.2rem 0;
+}
+.Instructions p{
+    width:7rem;
+    font-size: 0.28rem;
+    line-height:0.4rem;
+    margin:0.13rem auto 0;
+    color: #704210;
+}
+.Instructions p i{
+    display: inline-block;
+    width: 0.34rem;
+    height: 0.34rem;
+    text-align: center;
+    color: #ffffff;
+    background: url("../images/didi-pop-icon1.png") no-repeat 0 0;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+    font-size: 0.28rem;
+    vertical-align: middle;
+    margin:0 0.1rem ;
+    font-family: Arial;
+}
+.Instructions p i.didi-pop-icon2{
+    background: url("../images/didi-pop-icon2.png") no-repeat 0 0;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.Instructions p i.didi-pop-icon3{
+    background: url("../images/didi-pop-icon3.png") no-repeat 0 0;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.Instructions p i.didi-pop-icon4{
+    background: url("../images/didi-pop-icon4.png") no-repeat 0 0;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.Instructions p em{
+    display: inline-block;
+    vertical-align: middle;
+}
+.member-forward{
+    width:7rem;
+    height:0.68rem;
+    line-height:0.68rem;
+    color: #000;
+    font-size:0.28rem;
+    vertical-align: middle;
+    margin:0.51rem auto 0;
+    position: relative;
+}
+.con-logo{
+    width:0.38rem;
+    height:0.3rem;
+    background: url("../images/didilogo38-30.png") no-repeat 0 0;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin:0 0.1rem 0 0.22rem;
+}
+.BombBox{
+    height: 100%;
+    width: 100%;
+    background: rgba(51,47,40,.7);
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    display: none;
+}
+.Mask{
+    height: 100%;
+    width: 100%;
+    background: transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.Bomb1{
+    width:6.02rem;
+    height:3.77rem;
+    background: url("../images/layerBGI.png") no-repeat 0 0;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+    position: fixed;
+    top:50%;
+    left:50%;
+    margin:-2.07rem 0 0 -2.96rem;
+    z-index: 999;
+}
+.Bomb1-con{
+    font-size:0.32rem;
+    width:3.36rem;
+    margin:1rem auto 0.2rem;
+    color: #704210;
+    text-align: center;
+    line-height:0.47rem;
+}
+
+.Bomb1-con i{
+    color: #ff6700;
+}
+
+.btnBox{
+    text-align: center;
+}
+.btnBox div{
+    vertical-align: middle;
+    width:2.4rem;
+    height:0.84rem;
+    display: inline-block;
+    background: url("../images/sure.png") no-repeat 0 0;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+    font-size:0.26rem;
+    border:1px solid transparent;
+}
+a.closeBtn{
+    width:0.89rem;
+    height:0.89rem;
+    position: absolute;
+    top:0;
+    right:0;
+    background: transparent;
+}
